@@ -1,7 +1,7 @@
 # UMOJAHACK22
 https://zindi.africa/competitions/umojahack-africa-2022-intermediate-challenge
 
-34th placed solution improved 
+34th placed solution improved to 11th
 
 INSURANCE CLAIM INTERMEDIATE COMPETITION
 
